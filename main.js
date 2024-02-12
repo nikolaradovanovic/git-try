@@ -1,1 +1,2 @@
-alert("Nikola Radovanovic")
+alert("Nikola Radovanovic");
+console.log("bla bla");
